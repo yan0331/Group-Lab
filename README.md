@@ -1,4 +1,5 @@
 #OPS445 Group Lab
+
 #This README file in the Group-Lab repository is written by Rina An.
 
 #This Group Project is for a simple web app of the famous "Rock, Paper Scissors" game. 
